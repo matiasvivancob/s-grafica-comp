@@ -1,4 +1,4 @@
-region	comuna	administra	psu	nem
+﻿region	comuna	administra	psu	nem
 Biobío	Laja	Particular Pagado	690.3846	6.3207
 Maule	Constitución	Particular Pagado	676.8750	6.4007
 Biobío	Arauco	Particular Pagado	659.8636	5.9857
@@ -637,7 +637,7 @@ Coquimbo	Rio Hurtado	Municipal	403.2073	5.4481
 Valparaíso	Calle Larga	Municipal	401.8889	5.0329
 O'Higgins	Requinoa	Municipal	401.8558	5.5514
 Atacama	Tierra Amarilla	Municipal	401.3506	5.5460
-Los Lagos	Futaleufú	Particular Subvencionado	401.0000	
+Los Lagos	Futaleufú	Particular Subvencionado	401.0000	5.5414
 Biobío	Hualqui	Particular Subvencionado	400.6667	5.4014
 O'Higgins	Placilla	Municipal	400.5500	5.5087
 Atacama	Caldera	Municipal	400.1852	5.3709
